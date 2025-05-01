@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+celery
+redis
+stripe
+python-dotenv
+sqlalchemy
